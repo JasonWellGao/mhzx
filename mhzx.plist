@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/easychn/mhzx/master/icon_512.png</string>
+                    <string>https://123456789.hgnmsc.com/download/icon_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string>App Subtitle</string>
 				<key>title</key>
-				<string>异界梦诛</string>
+				<string>贪玩梦诛</string>
 			</dict>
 		</dict>
 	</array>
